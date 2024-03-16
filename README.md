@@ -1,5 +1,6 @@
 # Assignment 1
 **Introducing Gemini**
+![](https://sustainablereview.com/wp-content/uploads/2023/09/google-AI-Submit-free-articles-directory.jpg)
 
 ***Every technology shift is an opportunity to advance scientific discovery, accelerate human progress, and improve lives. I believe the transition we are seeing right now with AI will be the most profound in our lifetimes, far bigger than the shift to mobile or to the web before it. AI has the potential to create opportunities — from the everyday to the extraordinary — for people everywhere. It will bring new waves of innovation and economic progress and drive knowledge, learning, creativity and productivity on a scale we haven’t seen before.***
 
@@ -121,4 +122,3 @@ This is a significant milestone in the development of AI, and the start of a new
 Google made great progress on Gemini so far and working hard to further extend its capabilities for future versions, including advances in planning and memory, and increasing the context window for processing even more information to give better responses.
 
 Excited by the amazing possibilities of a world responsibly empowered by AI — a future of innovation that will enhance creativity, extend knowledge, advance science and transform the way billions of people live and work around the world.
-![](https://sustainablereview.com/wp-content/uploads/2023/09/google-AI-Submit-free-articles-directory.jpg)
