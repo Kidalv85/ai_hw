@@ -101,7 +101,7 @@ Google making its Search Generative Experience (SGE) faster for users, with a 40
 
 **Building with Gemini**
 
-Starting on December 13, developers and enterprise customers can access Gemini Pro via the Gemini API in [Google AI Studio](link https://ai.google.dev/) or [Google Cloud Vertex AI.](https://cloud.google.com/vertex-ai)
+Starting on December 13, developers and enterprise customers can access Gemini Pro via the Gemini API in [Google AI Studio](https://ai.google.dev/) or [Google Cloud Vertex AI.](https://cloud.google.com/vertex-ai)
 
 Google AI Studio is a free, web-based developer tool to prototype and launch apps quickly with an API key. When it's time for a fully-managed AI platform, Vertex AI allows customization of Gemini with full data control and benefits from additional Google Cloud features for enterprise security, safety, privacy and data governance and compliance.
 
