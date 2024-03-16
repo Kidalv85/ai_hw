@@ -14,8 +14,8 @@ Gemini is also Google's most flexible model yet — able to efficiently run on e
 
 There are three different sizes :
 
-**Gemini Ultra** — largest and most capable model for highly complex tasks.
-**Gemini Pro** — best model for scaling across a wide range of tasks.
+**Gemini Ultra** — largest and most capable model for highly complex tasks.  
+**Gemini Pro** — best model for scaling across a wide range of tasks.  
 **Gemini Nano** — most efficient model for on-device tasks.
 
 **State-of-the-art performance**
