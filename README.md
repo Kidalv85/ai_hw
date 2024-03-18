@@ -2,7 +2,7 @@
 **Introducing Gemini**
 ![](https://sustainablereview.com/wp-content/uploads/2023/09/google-AI-Submit-free-articles-directory.jpg)  
 ***Every technology shift is an opportunity to advance scientific discovery, accelerate human progress, and improve lives. I believe the transition we are seeing right now with AI will be the most profound in our lifetimes, far bigger than the shift to mobile or to the web before it. AI has the potential to create opportunities — from the everyday to the extraordinary — for people everywhere. It will bring new waves of innovation and economic progress and drive knowledge, learning, creativity and productivity on a scale we haven’t seen before.***  
-<video src='https://www.ypuyube.com/watch?v=-a6E-r8W2Bs' width=180/>  
+<video src="https://www.ypuyube.com/watch?v=-a6E-r8W2Bs"></video>    
 
 Gemini is the most capable and general model yet, with state-of-the-art performance across many leading benchmarks. The first version Gemini 1.0, is optimized for different sizes: **Ultra**, **Pro** and **Nano**.
 
